@@ -16,3 +16,4 @@ It's your go-to resource for simple and straightforward explanations of various 
 |DevOps Tools Explanation                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Docker](https://github.com/ashish-kamboj/tech-simplified/blob/main/explanations/docker-explained.md)|
+|[Kubernetes](https://github.com/ashish-kamboj/tech-simplified/blob/main/explanations/kubernetes-explained.md)|
